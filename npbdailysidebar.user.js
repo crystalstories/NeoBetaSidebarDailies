@@ -4,6 +4,7 @@
 // @description  replaces the Album section of the Beta sidebar with a Daily section
 // @author       crystalstories#6013
 // @match        *://www.neopets.com/*
+// @exclude      *//www.neopets.com/~*
 // ==/UserScript==
 
 function addGlobalStyle(css) {
