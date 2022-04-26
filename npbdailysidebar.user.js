@@ -2,7 +2,7 @@
 // @name         Neopets Beta Dailies
 // @version      0.1
 // @description  replaces the Album section of the Beta sidebar with a Daily section
-// @author       @crystalstories#6013
+// @author       crystalstories#6013
 // @match        *://www.neopets.com/*
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
